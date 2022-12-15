@@ -1,1 +1,4 @@
-Stopped here -> https://dev.epicgames.com/community/learning/courses/67R/unreal-engine-introduction-to-ai-with-blueprints/1d4/nav-mesh-and-the-gameplay-debugger
+Finished
+
+<!-- TODO -->
+<!-- Work on the read me file -->
